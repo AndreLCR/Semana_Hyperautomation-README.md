@@ -1,1 +1,2 @@
-# Semana01_Hyperautomation-README.md
+Pasta destinada às atividades da Semana 01 da
+disciplina de Hyperautomation.
