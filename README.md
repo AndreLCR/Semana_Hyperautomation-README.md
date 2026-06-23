@@ -1,2 +1,2 @@
-Pasta destinada às atividades da Semana 01 da
+Pasta destinada às atividades da Semana da
 disciplina de Hyperautomation.
